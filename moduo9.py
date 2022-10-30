@@ -1,3 +1,4 @@
+#Uso del break
 numero = 1
 
 while numero < 6:
